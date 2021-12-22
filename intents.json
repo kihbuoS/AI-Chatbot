@@ -1,0 +1,256 @@
+{
+    "intents": [{
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "How are you",
+                "Is anyone there?",
+                "Hello",
+                "Good day",
+                "hii"
+
+            ],
+            "responses": [
+
+
+
+                "welome to Bengal College of Engineering, what can I do for you"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye"],
+            "responses": [
+                "See you later, thanks for visiting",
+                "Have a nice day",
+                "Bye! Come back again soon."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+            "responses": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+        {
+            "tag": "items",
+            "patterns": [
+
+                "which courses do you offered?",
+                "courses",
+                "offered courses",
+                "course"
+            ],
+            "responses": [
+                "We offered Courses on B.Tech in CSE,IT,ME,CE,ECE,EE,   EEE for more details please contact us: courses@bcedgp.ac.in or Call Us:22222222222"
+
+            ]
+        },
+        {
+            "tag": "payments",
+            "patterns": [
+                "fees payment",
+                "payment",
+                "fees details",
+                "fee",
+                "pay",
+                "fees"
+            ],
+            "responses": [
+                "please enter your current semester"
+            ]
+        },
+        {
+            "tag": "1st",
+            "patterns": [
+                "1st semester",
+                "1st",
+                "first",
+                "first semester",
+                "1"
+            ],
+            "responses": [
+                "42,450 rupees, for payment please click on the link www.quickpayment.in"
+
+            ]
+        },
+        {
+            "tag": "2nd",
+            "patterns": [
+                "2nd semester",
+                "2nd",
+                "second",
+                "second semester",
+                "2"
+            ],
+            "responses": [
+                "42,450 rupees, for payment please click on the link www.quickpayment.in"
+
+            ]
+        },
+        {
+            "tag": "3rd",
+            "patterns": [
+                "3rd semester",
+                "3rd",
+                "third",
+                "third semester",
+                "3",
+                "4",
+                "4th",
+                "4th semester",
+                "fourth",
+                "fourth semester",
+                "three",
+                "four"
+            ],
+            "responses": [
+                "43,450 rupees, for payment please click on the link www.quickpayment.in"
+
+            ]
+        },
+        {
+            "tag": "exam",
+            "patterns": [
+                "exam",
+                "exam details",
+                "exam date",
+                "exam routine"
+
+            ],
+            "responses": [
+                "Current Semester Exam will be started from the second week Of January 2022 for more details     please visit : makaut.exam.net "
+
+            ]
+        },
+        {
+            "tag": "location",
+            "patterns": [
+                "location",
+                "location details",
+                "address",
+                "address details"
+
+            ],
+            "responses": [
+                "Our Address: Sahid Sukumar Banerjee Sarani,BidhanNagar,     Durgapur,713212 "
+
+            ]
+        },
+        {
+            "tag": "about",
+            "patterns": [
+                "about",
+                "college details",
+                "College information",
+                "college",
+                "info",
+                "college info",
+                "college about"
+
+            ],
+            "responses": [
+                "Bengal College of Engineering (formerly known as BCETW) was established by the SKS Educational and Social Trust in 2009. Now it is co-educational college offering courses in the domain of Computing, Electronics and Electrical Engineering. Situated in the posh locality of Durgapur, the Steel City of Bengal the college has robust infrastructure with modern architectonic features. Starting its journey eight years back, the institute has already positioned itself among the premier engineering institutes in the Asansol-Durgapur industrial belt"
+
+            ]
+        },
+        {
+            "tag": "4th",
+            "patterns": [
+                "5th semester",
+                "5th",
+                "fifth",
+                "fifth semester",
+                "5",
+                "6",
+                "6th",
+                "6th semester",
+                "sixth",
+                "sixth semester",
+                "six",
+                "five"
+            ],
+            "responses": [
+                "44,450 rupees, for payment please click on the link www.quickpayment.in"
+
+            ]
+        },
+        {
+            "tag": "5th",
+            "patterns": [
+                "7th semester",
+                "7th",
+                "seventh",
+                "seventh semester",
+                "7",
+                "8",
+                "8th",
+                "8th semester",
+                "eighth",
+                "eighth semester",
+                "seven",
+                "eight"
+            ],
+            "responses": [
+                "44,450 rupees, for payment please click on the link www.quickpayment.in"
+
+            ]
+        },
+
+        {
+            "tag": "delivery",
+            "patterns": [
+                "How long does delivery take?",
+                "How long does shipping take?",
+                "When do I get my delivery?"
+            ],
+            "responses": [
+                "Delivery takes 2-4 days",
+                "Shipping takes 2-4 days"
+            ]
+        },
+
+
+
+        {
+            "tag": "notice",
+            "patterns": [
+                "Current Notice",
+                "notice",
+                "new notice"
+            ],
+            "responses": [
+                "please click on the link: notice/bce.in"
+            ]
+        },
+        {
+            "tag": "admission",
+            "patterns": [
+                "admission details",
+                "admission",
+                "admission",
+                "online seat booking",
+                "seat book",
+                "seat"
+            ],
+            "responses": [
+                "for online seat booking please click on the link: admission/bce.in"
+            ]
+        },
+        {
+            "tag": "placement",
+            "patterns": [
+                "Placement",
+                "placement details",
+                "placed",
+                "job",
+                "placed student",
+                "placed students"
+
+            ],
+            "responses": [
+                "200+ Students from 2022 batch are already placed for more details please click on the link:placement.bce.in"
+            ]
+        }
+    ]
+}
