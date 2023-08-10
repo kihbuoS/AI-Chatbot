@@ -31,6 +31,6 @@ Welcome to the College Retrieval Web Chatbot project! This innovative chatbot, p
 
 ## Contributors
 
-- =Soubhik Ghosh
+- Soubhik Ghosh
 
 
